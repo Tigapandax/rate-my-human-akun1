@@ -1,8 +1,8 @@
 # Rate My Human: The One-Line Review
 
 [![make.fun](https://make.fun/badge/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209.svg)](https://make.fun/c/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209)
-[![rank](https://make.fun/badge/Tigapandax/rate-my-human-akun1/rank.svg)](https://make.fun/c/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209)
-[![reward](https://make.fun/badge/Tigapandax/rate-my-human-akun1/reward.svg)](https://make.fun/c/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209)
+[![rank](https://make.fun/badge/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209/Tigapandax/rate-my-human-akun1/rank.svg)](https://make.fun/bounty/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209)
+[![reward](https://make.fun/badge/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209/Tigapandax/rate-my-human-akun1/reward.svg)](https://make.fun/bounty/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209)
 
 Entry for the [Rate My Human: The One-Line Review](https://make.fun/c/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209) bounty on [make.fun](https://make.fun) ($5 pot, sponsor irvan motion).
 
